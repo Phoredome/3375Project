@@ -1,0 +1,3 @@
+Mini games collection
+Rubik's Cube solver
+Recipe picker (put in ingredients to get recipes for them)
