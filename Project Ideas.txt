@@ -1,3 +1,8 @@
-Mini games collection
-Rubik's Cube solver
 Recipe picker (put in ingredients to get recipes for them)
+  
+
+Music Player 
+  Good Concept, hard to stand out and explain why we would need to make a new one.
+    Music player with Kareoki option.
+
+Wallet payment system (Card saver)
